@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ruTSR</string>
+    <string name="welcome_message">Добро пожаловать в приложение для распознавания дорожных знаков</string>
+    <string name="start_button">Начать</string>
+    <string name="camera_permission">Для работы приложения необходим доступ к камере.</string>
+    <string name="title">Распознавание дорожных знаков</string>
+    <string name="desc">Данное приложение предназначено для распознавания знаков дорожного движения РФ в режиме реального времени.</string>
+</resources>
